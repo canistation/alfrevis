@@ -1,0 +1,17 @@
+#+TITLE: My Bot
+
+* Features
+
+** send status changes to me
+
+** site uptime
+
+** application open
+
+* tech
+
+** lita
+
+** mechanize
+
+** ruby
